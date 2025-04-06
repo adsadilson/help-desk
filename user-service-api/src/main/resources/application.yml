@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: 'user-service-api'
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: helpdeskdb
+
+
