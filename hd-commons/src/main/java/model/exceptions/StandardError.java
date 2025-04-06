@@ -1,5 +1,6 @@
 package model.exceptions;
 
+
 import lombok.Getter;
 import lombok.experimental.SuperBuilder;
 
